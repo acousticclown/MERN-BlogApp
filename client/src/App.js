@@ -9,7 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import AddArticle from "./components/AddArticle";
 import ModifyArticle from "./components/ModifyArticle";
 
-const URL = 'https://grim-blood-45082.herokuapp.com'
+const URL = 'https://shivanshblog.herokuapp.com'
 
 function App() {
   const [posts, setPosts] = useState([])
